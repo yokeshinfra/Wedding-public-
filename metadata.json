@@ -1,6 +1,0 @@
-{
-  "name": "Traditional South Indian Wedding Website",
-  "description": "A premium, responsive South Indian Wedding Website crafted for a Vishwakarma family marriage ceremony, with language translation support, live RSVPs, elegant event timelines, and traditional Tamil cultural rituals.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
